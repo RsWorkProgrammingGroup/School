@@ -10,16 +10,18 @@ namespace En
 		public static void Main()
 		{
 			// Create a new HTML Button
-			var button = new HTMLButtonElement();
-
-			// Set the Button text
-			button.InnerHTML = "Click Me";
-
-			// Add a Click event handler
-			button.OnClick = (ev) =>
+			var button = new HTMLButtonElement
 			{
+
+				// Set the Button text
+				InnerHTML = "Click Me",
+
+				// Add a Click event handler
+				OnClick = (ev) =>
+				{
 				// Write a message to the Console
 				Console.WriteLine("Welcome to Bridge.NET");
+				}
 			};
 
 			// Add the button to the document body
