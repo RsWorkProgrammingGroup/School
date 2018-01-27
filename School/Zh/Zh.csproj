@@ -40,7 +40,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Books\07语文答题方法%2526成语总结.pdf" />
+    <None Include="Books\08语文解题方法.pdf" />
     <None Include="bridge.json" />
+    <None Include="G1\2017创新作文大赛材料.pptx" />
+    <None Include="G1\文化常识\文化常识%28打印%29.docx" />
+    <None Include="G1\文化常识\文化常识.pptx" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

@@ -40,7 +40,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Books\03理数解题思路&amp;知识总结.pdf" />
+    <None Include="Books\07文数一轮复习例题%2526知识点.pdf" />
+    <None Include="Books\math2016project2-low.pdf" />
+    <None Include="Books\math2016project2.pdf" />
+    <None Include="Books\数学骗分导论.pdf" />
     <None Include="bridge.json" />
+    <None Include="G1\2018.1.5.ppt" />
+    <None Include="G1\作业答案20171117.ppt" />
+    <None Include="G1\数学作业答案2017-12-24.ppt" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

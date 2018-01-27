@@ -40,7 +40,27 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Books\06生物知识点.pdf" />
+    <None Include="Books\10生物重点知识点.pdf" />
     <None Include="bridge.json" />
+    <None Include="G1\4.3物质跨膜运输的方式2003.ppt" />
+    <None Include="G1\5.1《降低化学反应活化能的酶》ppt课件.ppt" />
+    <None Include="G1\光合.ppt" />
+    <None Include="G1\必修1-02-03遗传信息的携带者——核酸.ppt" />
+    <None Include="G1\流动镶嵌模型.ppt" />
+    <None Include="G1\第一章第一节从生物圈到细胞.ppt" />
+    <None Include="G1\第一章第二节细胞的多样性和统一性.ppt" />
+    <None Include="G1\第二章第一节元素和化合物.ppt" />
+    <None Include="G1\第二课时 细胞器──系统内的分工合作_ppt.ppt" />
+    <None Include="G1\细胞中的糖类和脂质 %282%29.ppt" />
+    <None Include="G1\细胞中的糖类和脂质 无机物%282%29.ppt" />
+    <None Include="G1\细胞呼吸.ppt" />
+    <None Include="G1\细胞器——系统内的分工合作0-课件.ppt" />
+    <None Include="G1\细胞核R.ppt" />
+    <None Include="G1\细胞的能量通货—ATP.ppt" />
+    <None Include="G1\细胞膜.ppt" />
+    <None Include="G1\蛋白质.ppt" />
+    <None Include="G1\蛋白质第二课时.ppt" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

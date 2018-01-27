@@ -40,7 +40,18 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Books\05政治必修1-4.pdf" />
+    <None Include="Books\06政治知识思维导图.pdf" />
     <None Include="bridge.json" />
+    <None Include="G1\10.31---11.2.pptx" />
+    <None Include="G1\11.7—11.9.pptx" />
+    <None Include="G1\12.5___12.7.pptx" />
+    <None Include="G1\17级政治1.1.ppt" />
+    <None Include="G1\17级第一次月考考前回顾.ppt" />
+    <None Include="G1\2.3 （共29张PPT）.ppt" />
+    <None Include="G1\4.1课后案解析.pptx" />
+    <None Include="G1\4.2.ppt" />
+    <None Include="G1\5.1人民代表大会：国家权力机关.ppt" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>

@@ -40,6 +40,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Books\02高中物理典型例题.pdf" />
+    <None Include="Books\05物理重难点题型%2526实验总结.pdf" />
     <None Include="bridge.json" />
     <None Include="packages.config" />
   </ItemGroup>
