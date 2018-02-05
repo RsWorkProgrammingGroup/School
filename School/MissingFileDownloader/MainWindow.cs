@@ -13,6 +13,9 @@ namespace MissingFileDownloader
 		public MainWindow()
 		{
 			InitializeComponent();
+			dataGridView1.Rows[0].Cells[1].Value = "XTest0";
+			dataGridView1.Rows[0].Cells[2].Value = "XTest1";
+			dataGridView1.Rows[0].Cells[3].Value = "XTest2";
 		}
 
 		private void modernButton1_Click(object sender, EventArgs e)
@@ -21,6 +24,11 @@ namespace MissingFileDownloader
 		}
 
 		private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+		{
+
+		}
+
+		private void MainWindow_Load(object sender, EventArgs e)
 		{
 
 		}
