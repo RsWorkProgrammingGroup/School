@@ -45,6 +45,7 @@
     <None Include="Books\07英语解题方法%2526语法总结.pdf" />
     <None Include="Books\英语作文万能模板.docx" />
     <None Include="bridge.json" />
+    <None Include="G1\第一章复习.pptx" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -59,7 +60,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="G1\" />
     <Folder Include="G2\" />
     <Folder Include="G3\" />
     <Folder Include="R\" />

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1", "1\1.csproj", "{E4F2D1B3-CCB8-4A5B-A4C6-80BBF52781B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unsorted", "1\Unsorted.csproj", "{E4F2D1B3-CCB8-4A5B-A4C6-80BBF52781B7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B", "B\B.csproj", "{0C3610F2-359C-4B0E-B81F-1CFE02912B00}"
 EndProject
@@ -24,6 +24,19 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spec", "Spec\Spec.csproj", "{50257727-FD86-4E74-AA53-A9255CD75AB4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zh", "Zh\Zh.csproj", "{346D20E6-9227-4A62-A036-F47C1AF90A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingFileDownloader", "MissingFileDownloader\MissingFileDownloader.csproj", "{8D8C4738-7464-4C16-9C26-6DEC5E57986C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Subjects", "Subjects", "{88104029-C637-4F8F-8F94-F4B60F381821}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21A32C82-6D68-4E27-8A03-948C64FA71D6}"
+	ProjectSection(SolutionItems) = preProject
+		References\RsWork.Functions.dll = References\RsWork.Functions.dll
+		References\RsWork.Functions.pdb = References\RsWork.Functions.pdb
+		References\RsWork.UI.dll = References\RsWork.UI.dll
+		References\RsWork.UI.dll.config = References\RsWork.UI.dll.config
+		References\RsWork.UI.pdb = References\RsWork.UI.pdb
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,9 +88,24 @@ Global
 		{346D20E6-9227-4A62-A036-F47C1AF90A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{346D20E6-9227-4A62-A036-F47C1AF90A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{346D20E6-9227-4A62-A036-F47C1AF90A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D8C4738-7464-4C16-9C26-6DEC5E57986C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8C4738-7464-4C16-9C26-6DEC5E57986C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8C4738-7464-4C16-9C26-6DEC5E57986C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8C4738-7464-4C16-9C26-6DEC5E57986C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0C3610F2-359C-4B0E-B81F-1CFE02912B00} = {88104029-C637-4F8F-8F94-F4B60F381821}
+		{50106AEE-7E93-4725-9379-32C947698BEE} = {88104029-C637-4F8F-8F94-F4B60F381821}
+		{9C77F9B2-2982-47F9-ACF8-3DAF2E30E770} = {88104029-C637-4F8F-8F94-F4B60F381821}
+		{4A0C35BC-EF3D-4D5B-BE3F-E12399B9BFBF} = {88104029-C637-4F8F-8F94-F4B60F381821}
+		{89614495-5DE4-481A-8B91-05C5668DF015} = {88104029-C637-4F8F-8F94-F4B60F381821}
+		{1458C1F5-2B14-46B1-8BF2-E8BC4068FB60} = {88104029-C637-4F8F-8F94-F4B60F381821}
+		{41522EF7-6F84-48AA-BBCC-803729400BD5} = {88104029-C637-4F8F-8F94-F4B60F381821}
+		{6BD540CD-8700-45BA-9158-89F92717337D} = {88104029-C637-4F8F-8F94-F4B60F381821}
+		{346D20E6-9227-4A62-A036-F47C1AF90A6C} = {88104029-C637-4F8F-8F94-F4B60F381821}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F8FE2400-6CE0-4254-AFAD-F7F0F2C0BA7A}

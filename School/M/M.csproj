@@ -46,7 +46,10 @@
     <None Include="Books\math2016project2.pdf" />
     <None Include="Books\数学骗分导论.pdf" />
     <None Include="bridge.json" />
+    <None Include="G1\2018.1.22.ppt" />
+    <None Include="G1\2018.1.30.ppt" />
     <None Include="G1\2018.1.5.ppt" />
+    <None Include="G1\2018.1.6.ppt" />
     <None Include="G1\作业答案20171117.ppt" />
     <None Include="G1\数学作业答案2017-12-24.ppt" />
     <None Include="packages.config" />
