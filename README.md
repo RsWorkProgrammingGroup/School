@@ -1,5 +1,6 @@
 # School
-> 此repo为Believers in Science Studio(科学信徒工作室)的所有学习资料的存储库。
+> 此repo为Believers in Science Studio(科学信徒工作室)的所有学习资料的存储库，
+> 为学习资料云共享平台基础设施，如果您不能完整的看到此文件，请点击下方的"View all of README.md"
 
 ## 代码含义
 - 科目代号
